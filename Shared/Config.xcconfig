@@ -9,11 +9,11 @@
 // git update-index --skip-worktree Shared/Config.xcconfig
 // git update-index --no-skip-worktree Shared/Config.xcconfig
 
-OA_APP_BUNDLE_ID[config=Debug] =
-OA_EXT_BUNDLE_ID[config=Debug] =
-OA_SCS_BUNDLE_ID[config=Debug] =
-OA_APP_GROUP[config=Debug] =
-DEVELOPMENT_TEAM[config=Debug] =
+OA_APP_BUNDLE_ID[config=Debug] = org.gorringe.save1
+OA_EXT_BUNDLE_ID[config=Debug] = org.gorringe.save1.ShareExtension
+OA_SCS_BUNDLE_ID[config=Debug] = org.gorringe.save1.Screenshots
+OA_APP_GROUP[config=Debug] = group.org.gorringe.save1
+DEVELOPMENT_TEAM[config=Debug] = 4HLUY83ADB
 PROVISIONING_PROFILE_SPECIFIER_MAIN[config=Debug] =
 PROVISIONING_PROFILE_SPECIFIER_SHARE_EXTENSION[config=Debug] =
 PROVISIONING_PROFILE_SPECIFIER_SCREENSHOTS[config=Debug] =
